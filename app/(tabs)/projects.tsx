@@ -18,21 +18,24 @@ const projects = [
   {
     name: "ThievBook",
     image: require("@/assets/images/projects/thievbook.png"),
-    description: "A full-stack e-commerce application with React and Node.js",
+    description:
+      "Thievbook adalah perpustakaan buku online terbaik Anda. Platform kami menyediakan akses ke koleksi buku yang luas dari berbagai genre dan topik, mulai dari bestseller terbaru, sastra klasik, hingga materi pendidikan. Thievbook memiliki sesuatu untuk semua orang.",
     demoUrl: "https://thievbook.vercel.app",
     repoUrl: "https://github.com/TeguhBagasM/thievbook",
   },
   {
     name: "Landing Page E-Commerce",
     image: require("@/assets/images/projects/thievshop.png"),
-    description: "A full-stack e-commerce application with React and Node.js",
+    description:
+      "Thievshop adalah landing page e-commerce modern yang dibuat menggunakan React.js dan Vite, dengan Tailwind CSS untuk styling.",
     demoUrl: "https://thievshop.vercel.app",
     repoUrl: "https://github.com/TeguhBagasM/thievshop",
   },
   {
-    name: "E-Commerce App",
+    name: "Noteverse",
     image: require("@/assets/images/projects/noteverse.png"),
-    description: "A full-stack e-commerce application with React and Node.js",
+    description:
+      "Noteverse adalah aplikasi catatan online yang dibangun dengan Next.js, TypeScript, dan Prisma sebagai ORM, menggunakan PostgreSQL untuk databasenya",
     demoUrl: "https://noteverse-chi.vercel.app",
     repoUrl: "https://github.com/TeguhBagasM/noteverse",
   },
